@@ -1,4 +1,5 @@
-baseURL = "http://example.org/"
+baseURL = "https://optimistic-ritchie-35b196.netlify.com"
 languageCode = "en-us"
 title = "My New Hugo Site"
 theme = "hugo-bootstrap-premium"
+relativeURLs = true
