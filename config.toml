@@ -1,5 +1,26 @@
 baseURL = "https://optimistic-ritchie-35b196.netlify.com"
 languageCode = "en-us"
 title = "My New Hugo Site"
-theme = "hugo-bootstrap-premium"
-relativeURLs = true
+theme = "liquorice-master"
+
+DefaultContentLanguage = "en"
+copyright = "Everything is mine"
+
+[params.navigation]
+help = "Help"
+
+[languages]
+[languages.en]
+title = "My blog"
+weight = 1
+linkedin = "english-link"
+
+[languages.fr]
+copyright = "Tout est à moi"
+title = "Mon blog"
+weight = 2
+linkedin = "lien-francais"
+
+# skip params key for front matter
+[languages.fr.navigation]
+help = "Aide"
