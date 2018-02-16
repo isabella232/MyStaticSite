@@ -1,8 +1,8 @@
-+++
-date = "2018-02-16T16:21:19+00:00"
-title = "Filip's Second Post"
+---
+title: Filip's Second Post
+date: 2018-02-16 17:07:55 +0100
 
-+++
+---
 Hey, this be me!
 
 Ordered list:
